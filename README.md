@@ -1,8 +1,8 @@
 # bib-files
 
 
-Biblatex can retrieve data from the web.
-Here is an example:
+Biblatex is able to access the bib files in this repository.
+Here is a minimal example:
 
 
 % !BIB TS-program = biber
@@ -11,7 +11,7 @@ Here is an example:
 
 \usepackage[backend=biber,style=numeric]{biblatex}
 
-\addbibresource{https://raw.githubusercontent.com/danielwessel/bib-files/master/Bibliographie.bib}
+\addbibresource{https://raw.githubusercontent.com/danielwessel/bib-files/master/besancon.bib}
 
 \begin{document}
 

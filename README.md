@@ -5,8 +5,6 @@ Biblatex is able to access the bib files in this repository.
 Here is a minimal example:
 
 
-% !BIB TS-program = biber
-
 \documentclass{article}
 
 \usepackage[backend=biber,style=numeric]{biblatex}

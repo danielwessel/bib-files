@@ -1,0 +1,18 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'Wessel_Publications.blg'
+[52] biber-darwin:290> INFO - === Mon Jul 30, 2018, 18:22:58
+[89] Biber.pm:351> INFO - Reading 'Wessel_Publications.bcf'
+[209] Biber.pm:776> INFO - Found 6 citekeys in bib section 0
+[221] Biber.pm:3493> INFO - Processing section 0
+[237] Biber.pm:3657> INFO - Looking for bibtex format file 'https://raw.githubusercontent.com/danielwessel/bib-files/master/Bibliographie.bib' for section 0
+[238] bibtex.pm:134> INFO - Data source 'https://raw.githubusercontent.com/danielwessel/bib-files/master/Bibliographie.bib' is a remote BibTeX data source - fetching ...
+[691] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[715] bibtex.pm:1048> INFO - Found BibTeX data source '/var/folders/gg/rgn8gcys7q97190z2bdf58_h0000gn/T/5H7mHhYrlG/biber_remote_data_source_jxp5e.bib'
+[725] Utils.pm:149> WARN - Duplicate entry key: 'ishihara:omni' in file '/var/folders/gg/rgn8gcys7q97190z2bdf58_h0000gn/T/5H7mHhYrlG/biber_remote_data_source_jxp5e.bib', skipping ...
+[776] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[776] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[776] Biber.pm:3306> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[776] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[783] bbl.pm:526> INFO - Writing 'Wessel_Publications.bbl' with encoding 'ascii'
+[784] bbl.pm:619> INFO - Output to Wessel_Publications.bbl
+[785] Biber.pm:108> INFO - WARNINGS: 1

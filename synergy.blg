@@ -1,0 +1,158 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: synergy.aux
+The style file: plain.bst
+Database file #1: synergy.bib
+Reallocated field_info (elt_size=4) to 10014 items from 5000.
+Warning--I'm ignoring lor:ein's extra "year" field
+--line 6528 of file synergy.bib
+Reallocated field_info (elt_size=4) to 15028 items from 10014.
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--I'm ignoring CZ's extra "year" field
+--line 7793 of file synergy.bib
+Warning--entry type for "math:comp" isn't style-file defined
+--line 7998 of file synergy.bib
+Warning--I'm ignoring spt's extra "address" field
+--line 8291 of file synergy.bib
+Warning--I'm ignoring genind's extra "address" field
+--line 8740 of file synergy.bib
+Reallocated field_info (elt_size=4) to 20042 items from 15028.
+Reallocated cite_list (elt_size=4) to 1500 items from 750.
+Reallocated type_list (elt_size=4) to 1500 items from 750.
+Reallocated entry_exists (elt_size=4) to 1500 items from 750.
+Reallocated cite_info (elt_size=4) to 1500 items from 750.
+Repeated entry---line 10832 of file synergy.bib
+ :  @article{coq:canon:dtt
+ :                        ,
+I'm skipping whatever remains of this entry
+Reallocated field_info (elt_size=4) to 25056 items from 20042.
+Repeated entry---line 11478 of file synergy.bib
+ : @incollection{sep-logic-provability
+ :                                    ,
+I'm skipping whatever remains of this entry
+Warning--I'm ignoring CiE2020's extra "note" field
+--line 11651 of file synergy.bib
+Reallocated str_pool (elt_size=1) to 195000 items from 130000.
+Reallocated field_info (elt_size=4) to 30070 items from 25056.
+I was expecting a `,' or a `}'---line 14189 of file synergy.bib
+ :  
+ :  volume = {75},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in math:comp
+Warning--to sort, need author, editor, or key in sga4:2
+Warning--to sort, need author, editor, or key in sga4:3
+Warning--to sort, need editor, organization, or key in ismvl18
+Warning--to sort, need author or key in coq:adeq:dtt
+Warning--to sort, need author or key in oslo:year
+Warning--to sort, need author or key in oslo:modern
+Too many commas in name 1 of "Carsten Schwemmer, Carly Knight, Emily D. Bello-Pardo, Stan Oklobdzija, Martijn Schoonvelde, Jeffrey W. Lockhart" for entry gender:img:rec
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Carsten Schwemmer, Carly Knight, Emily D. Bello-Pardo, Stan Oklobdzija, Martijn Schoonvelde, Jeffrey W. Lockhart" for entry gender:img:rec
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Carsten Schwemmer, Carly Knight, Emily D. Bello-Pardo, Stan Oklobdzija, Martijn Schoonvelde, Jeffrey W. Lockhart" for entry gender:img:rec
+while executing---line 1049 of file plain.bst
+Warning--to sort, need author or key in econ:spain
+Warning--empty author and editor in sga4:2
+Warning--empty author and editor in sga4:3
+Warning--empty author in coq:adeq:dtt
+Warning--empty author in econ:spain
+Warning--empty year in kant
+Warning--empty year in asc:curry
+Warning--empty booktitle in baltag2013
+Warning--empty journal in bos:inters
+Warning--empty school in boutry:formalisation
+Warning--empty year in brew:sub
+Too many commas in name 1 of "Carsten Schwemmer, Carly Knight, Emily D. Bello-Pardo, Stan Oklobdzija, Martijn Schoonvelde, Jeffrey W. Lockhart" for entry gender:img:rec
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Carsten Schwemmer, Carly Knight, Emily D. Bello-Pardo, Stan Oklobdzija, Martijn Schoonvelde, Jeffrey W. Lockhart" for entry gender:img:rec
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Carsten Schwemmer, Carly Knight, Emily D. Bello-Pardo, Stan Oklobdzija, Martijn Schoonvelde, Jeffrey W. Lockhart" for entry gender:img:rec
+while executing---line 1090 of file plain.bst
+Warning--empty year in coq:survey
+Warning--empty year in coq:stack
+Warning--empty year in coquand:sfc
+Warning--empty institution in doczkal:menger
+Warning--empty booktitle in Domenech2008KripkestyleSF
+Warning--empty journal in DS1
+Warning--empty year in espindola:semantic
+Warning--empty journal in fno21
+Warning--empty journal in fel:jac
+Warning--empty institution in fel:nuc
+Warning--can't use both author and editor fields in goedel:coll1
+Warning--can't use both author and editor fields in goedel:coll4
+Warning--can't use both author and editor fields in goedel:coll5
+Warning--there's a number but no volume in epi:math
+Warning--empty year in hertz:about
+Warning--empty year in kro:gmt
+Warning--empty year in leg:her
+Warning--empty publisher in mahboubi:mc
+Warning--empty year in neg:hillas
+Warning--empty year in neu:reshape
+Warning--empty publisher in oecd:hr
+Warning--empty publisher in orevkov
+Warning--there's a number but no volume in paysch2007
+Warning--empty institution in quadrat:intro
+Warning--empty journal in ran
+Warning--empty journal in RSS17
+Warning--empty institution in rin:full
+Warning--empty institution in rinaldiwessel:sik:pre
+Warning--empty institution in rw:sikmon
+Warning--empty institution in rin:profi
+Warning--empty institution in rin:baer
+Warning--empty journal in schusterwessel:jacincpred
+Warning--empty year in schusterwessel:jacincpred
+Warning--empty publisher in wes:ober:scott
+Warning--empty year in wes:ober:scott
+Warning--empty publisher in segerberg:essay
+Warning--empty booktitle in Simpson1994
+Warning--can't use both author and editor fields in fenstad
+Warning--empty publisher in vic:cpp
+Warning--empty note in vizcaino:rel
+Warning--empty note in voev:note
+Warning--empty note in voev:equ
+Warning--empty journal in voev:lawc
+Warning--empty journal in voev:lawrel
+Warning--empty institution in wes:pt
+You've used 1156 entries,
+            2118 wiz_defined-function locations,
+            5988 strings with 145339 characters,
+and the built_in function-call counts, 361300 in all, are:
+= -- 37165
+> -- 12694
+< -- 338
++ -- 5203
+- -- 3828
+* -- 23545
+:= -- 59324
+add.period$ -- 3718
+call.type$ -- 1156
+change.case$ -- 5080
+chr.to.int$ -- 0
+cite$ -- 1219
+duplicate$ -- 14882
+empty$ -- 30893
+format.name$ -- 3828
+if$ -- 76652
+int.to.chr$ -- 0
+int.to.str$ -- 1156
+missing$ -- 1205
+newline$ -- 5816
+num.names$ -- 2565
+pop$ -- 5108
+preamble$ -- 1
+purify$ -- 4075
+quote$ -- 0
+skip$ -- 10164
+stack$ -- 0
+substring$ -- 25671
+swap$ -- 3098
+text.length$ -- 338
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4251
+warning$ -- 63
+while$ -- 4073
+width$ -- 1160
+write$ -- 13031
+(There were 9 error messages)

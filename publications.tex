@@ -13,33 +13,13 @@
 \titlespacing*{\section}
 {0pt}{0pt}{.6cm}
 
+
+
 \begin{document}
 
 \thispagestyle{empty}
 
-% \nocite{rin:edde}
-% \nocite{rin:edde:full}
-% \nocite{rinwes:sik}
-% % \nocite{rin:eddefull}
-% \nocite{schusterwessel:suz}
-% \nocite{wes:ext}
-%
-% \nocite{fel:jac:proc}
-% \nocite{rin:cuts}
-% \nocite{sch:hah}
-%
-% \nocite{schuster:some}
-% \nocite{wes:ogc}
-% \nocite{wes:conred}
-% \nocite{wes:path}
-%
-% \nocite{bon:rib}
-% \nocite{CiE2020}
-% \nocite{LICS2020}
-%
-% \nocite{schu:krull}
-% \nocite{swy:dynprime}
-% \nocite{bonwes:meng}
+
 
 \renewcommand\refname{Publications}
 
@@ -49,7 +29,18 @@
 % \bibliography{synergy.bib}
 \begin{flushleft}
 
-\begin{thebibliography}{10}
+%% --- reverse numbering in thebibliography ---
+%\newcounter{bibtotal}
+%\setcounter{bibtotal}{26} % <-- set to number of \bibitem entries
+%
+%\makeatletter
+%\renewcommand\@biblabel[1]{%
+%  \hfill\bibnumfmt{\number\numexpr\value{bibtotal}-#1+1\relax}%
+%}
+%\makeatother
+%% --- end reverse numbering ---
+
+\begin{thebibliography}{26}
 
 \bibitem{rin:edde}
 % Davide Rinaldi, Peter Schuster, and Daniel Wessel.
@@ -232,13 +223,18 @@
 \bibitem{mwp:rig}
 \newblock `Boolean rigs' (with I.~Petrakis).
 \newblock {\em Algebra Univers.}, 86:29, 2025.
-\newblock DOI: \href{}{10.1007/s00012-025-00904-9}.
+\newblock DOI: \href{https://doi.org/10.1007/s00012-025-00904-9}{10.1007/s00012-025-00904-9}.
 \newblock MR 4957851.
 
 \bibitem{mw:hide}
 \newblock `Partial valuations hide the contaminating value'.
-\newblock {\em Australas. J. Log.}, 22(6):2, 2025.
+\newblock {\em Australas. J. Log.}, 23(1):5, 2026.
+\newblock DOI: \href{https://doi.org/10.26686/ajl.v23i1.9874}{10.26686/ajl.v23i1.9874}.
+\newblock MR 5016180.
 
+\bibitem{miss:good}
+\newblock `Good sequences without subdirect representation: a constructive treatment of Mundici's $\Gamma$ functor'.
+\newblock {\em Stud. Logica}, forthcoming.
 
 \end{thebibliography}
 

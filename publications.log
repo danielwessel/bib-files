@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.9.4)  22 FEB 2026 19:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.9.4)  18 MAY 2026 11:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -242,20 +242,20 @@ Package rerunfilecheck Info: File `publications.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8378 strings out of 473190
- 130028 string characters out of 5715801
- 544147 words of memory out of 5000000
- 31556 multiletter control sequences out of 15000+600000
+ 8382 strings out of 473190
+ 130093 string characters out of 5715801
+ 544163 words of memory out of 5000000
+ 31559 multiletter control sequences out of 15000+600000
  559788 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,79p,248b,665s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on publications.pdf (2 pages, 61667 bytes).
+Output written on publications.pdf (2 pages, 62060 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
- 30 named destinations out of 1000 (max. 500000)
+ 93 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 31 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
